@@ -1,0 +1,26 @@
+! Ef-Tritanopia-Dark Colors
+*background: #15050f
+*foreground: #dfd0d5
+*cursorColor: #fd3333
+
+*color0: #282026
+*color8: #554f4f
+*color1: #cf4f5f
+*color9: #d24f7f
+*color2: #2fa526
+*color10: #00b066
+*color3: #c48702
+*color11: #df8f6f
+*color4: #379cf6
+*color12: #029fff
+*color5: #b0648f
+*color13: #a6699f
+*color6: #3fafcf
+*color14: #4fafaf
+*color7: #dfd0d5
+*color15: #908890
+
+*dmenu.background : #282026
+*dmenu.foreground : #dfd0d5
+*dmenu.selbackground : #671822
+*dmenu.selforeground : #ffffff

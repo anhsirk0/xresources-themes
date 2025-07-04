@@ -1,0 +1,26 @@
+! Ef-Maris-Light Colors
+*background: #edf4f8
+*foreground: #151a27
+*cursorColor: #036f99
+
+*color0: #e0e7ef
+*color8: #afb8c3
+*color1: #c3303a
+*color9: #b02440
+*color2: #007010
+*color10: #007047
+*color3: #805a1f
+*color11: #78542f
+*color4: #375cc6
+*color12: #003faf
+*color5: #80308f
+*color13: #5f2fba
+*color6: #1f66af
+*color14: #006f70
+*color7: #151a27
+*color15: #676470
+
+*dmenu.background : #e0e7ef
+*dmenu.foreground : #151a27
+*dmenu.selbackground : #a0c2ef
+*dmenu.selforeground : #142810

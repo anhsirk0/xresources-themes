@@ -1,0 +1,26 @@
+! Ef-Elea-Dark Colors
+*background: #222524
+*foreground: #eaf2ef
+*cursorColor: #ef7fa8
+
+*color0: #303332
+*color8: #5e6160
+*color1: #ff656a
+*color9: #fa7f88
+*color2: #7fc87f
+*color10: #50cf89
+*color3: #cac85f
+*color11: #cfb27f
+*color4: #57aff6
+*color12: #62cfef
+*color5: #f59acf
+*color13: #cfaaff
+*color6: #6fcfd2
+*color14: #60d5c2
+*color7: #eaf2ef
+*color15: #969faf
+
+*dmenu.background : #303332
+*dmenu.foreground : #eaf2ef
+*dmenu.selbackground : #35605d
+*dmenu.selforeground : #ecf0ff

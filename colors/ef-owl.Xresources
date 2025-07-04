@@ -1,0 +1,26 @@
+! Ef-Owl Colors
+*background: #292c2f
+*foreground: #d0d0d0
+*cursorColor: #afe6ef
+
+*color0: #373b3d
+*color8: #60676b
+*color1: #d67869
+*color9: #e4959f
+*color2: #70bb70
+*color10: #60bd90
+*color3: #c09f6f
+*color11: #cf9f90
+*color4: #80a4e0
+*color12: #72aff0
+*color5: #e5a0ea
+*color13: #cfa0e8
+*color6: #8fb8ea
+*color14: #7ac0b9
+*color7: #d0d0d0
+*color15: #857f8f
+
+*dmenu.background : #373b3d
+*dmenu.foreground : #d0d0d0
+*dmenu.selbackground : #5b637e
+*dmenu.selforeground : #dadfe5

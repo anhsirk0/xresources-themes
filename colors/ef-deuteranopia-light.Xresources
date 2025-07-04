@@ -1,0 +1,26 @@
+! Ef-Deuteranopia-Light Colors
+*background: #f5f5ff
+*foreground: #1a1a2f
+*cursorColor: #0000bb
+
+*color0: #e8e8ea
+*color8: #b3b3c0
+*color1: #d3303a
+*color9: #d50f7f
+*color2: #217a3c
+*color10: #008058
+*color3: #805d00
+*color11: #765040
+*color4: #375cd8
+*color12: #065fff
+*color5: #ba35af
+*color13: #6052cf
+*color6: #1f6fbf
+*color14: #1f77bb
+*color7: #1a1a2f
+*color15: #70627f
+
+*dmenu.background : #e8e8ea
+*dmenu.foreground : #1a1a2f
+*dmenu.selbackground : #99c7ff
+*dmenu.selforeground : #0a0a1f

@@ -1,0 +1,26 @@
+! Ef-Rosa Colors
+*background: #322023
+*foreground: #e4d3e1
+*cursorColor: #ef607a
+
+*color0: #432e32
+*color8: #6a5862
+*color1: #ff707f
+*color9: #f0888f
+*color2: #5fbb5f
+*color10: #49d081
+*color3: #e4c53f
+*color11: #eec26f
+*color4: #57aff6
+*color12: #62cff7
+*color5: #ffb2d6
+*color13: #cfb1ff
+*color6: #5fc0dc
+*color14: #80dfbf
+*color7: #e4d3e1
+*color15: #9d9d9d
+
+*dmenu.background : #432e32
+*dmenu.foreground : #e4d3e1
+*dmenu.selbackground : #814558
+*dmenu.selforeground : #e8e5e7

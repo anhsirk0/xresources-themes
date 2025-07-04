@@ -1,0 +1,26 @@
+! Ef-Dream Colors
+*background: #232025
+*foreground: #efd5c5
+*cursorColor: #f3c09a
+
+*color0: #322f34
+*color8: #5b595e
+*color1: #ff6f6f
+*color9: #e47980
+*color2: #51b04f
+*color10: #3fc489
+*color3: #c0b24f
+*color11: #deb07a
+*color4: #57b0ff
+*color12: #12b4ff
+*color5: #ffaacf
+*color13: #d0b0ff
+*color6: #6fb3c0
+*color14: #65c5a8
+*color7: #efd5c5
+*color15: #8f8886
+
+*dmenu.background : #322f34
+*dmenu.foreground : #efd5c5
+*dmenu.selbackground : #675072
+*dmenu.selforeground : #fedeff

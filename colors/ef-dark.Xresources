@@ -1,0 +1,26 @@
+! Ef-Dark Colors
+*background: #000000
+*foreground: #d0d0d0
+*cursorColor: #ff76ff
+
+*color0: #1a1a1a
+*color8: #4b4b4b
+*color1: #ef6560
+*color9: #ff5a7a
+*color2: #0faa26
+*color10: #00a692
+*color3: #bf9032
+*color11: #df8a5a
+*color4: #3f95f6
+*color12: #029fff
+*color5: #d369af
+*color13: #af85ff
+*color6: #4fbaef
+*color14: #1dbfcf
+*color7: #d0d0d0
+*color15: #857f8f
+
+*dmenu.background : #1a1a1a
+*dmenu.foreground : #d0d0d0
+*dmenu.selbackground : #2a2a75
+*dmenu.selforeground : #e0e0ff

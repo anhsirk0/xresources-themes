@@ -1,0 +1,26 @@
+! Ef-Frost Colors
+*background: #fcffff
+*foreground: #232323
+*cursorColor: #0055bb
+
+*color0: #eaefef
+*color8: #b5b8b8
+*color1: #c42d2f
+*color9: #cf2f4f
+*color2: #008a00
+*color10: #00845f
+*color3: #aa6100
+*color11: #996c4f
+*color4: #004fc0
+*color12: #065fff
+*color5: #aa44c5
+*color13: #7f5ae0
+*color6: #1f6fbf
+*color14: #007a85
+*color7: #232323
+*color15: #66657f
+
+*dmenu.background : #eaefef
+*dmenu.foreground : #232323
+*dmenu.selbackground : #9ad0ff
+*dmenu.selforeground : #051524

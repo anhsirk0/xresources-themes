@@ -1,0 +1,26 @@
+! Ef-Melissa-Dark Colors
+*background: #352718
+*foreground: #e8e4b1
+*cursorColor: #f9cf7a
+
+*color0: #483426
+*color8: #79665f
+*color1: #ff7f7f
+*color9: #ff8f98
+*color2: #6fd560
+*color10: #65d590
+*color3: #e4b53f
+*color11: #e7a06f
+*color4: #57aff6
+*color12: #62cfef
+*color5: #f0aac5
+*color13: #c6a2fe
+*color6: #6fcad0
+*color14: #70e0cf
+*color7: #e8e4b1
+*color15: #90918a
+
+*dmenu.background : #483426
+*dmenu.foreground : #e8e4b1
+*dmenu.selbackground : #704f00
+*dmenu.selforeground : #f8efd8

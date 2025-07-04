@@ -1,0 +1,26 @@
+! Ef-Trio-Light Colors
+*background: #f8f5ff
+*foreground: #4f3363
+*cursorColor: #4f45ff
+
+*color0: #ebe7f1
+*color8: #c3c0c9
+*color1: #c3303a
+*color9: #c01f5f
+*color2: #057800
+*color10: #007f6f
+*color3: #a45f22
+*color11: #b65050
+*color4: #375cd6
+*color12: #065fbf
+*color5: #ad45ba
+*color13: #705ae3
+*color6: #1f6fbf
+*color14: #0f7a9d
+*color7: #4f3363
+*color15: #786e74
+
+*dmenu.background : #ebe7f1
+*dmenu.foreground : #4f3363
+*dmenu.selbackground : #ddb4ff
+*dmenu.selforeground : #241f48

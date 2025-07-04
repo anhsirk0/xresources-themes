@@ -1,0 +1,26 @@
+! Ef-Trio-Dark Colors
+*background: #160f0f
+*foreground: #d8cfd5
+*cursorColor: #ff99ff
+
+*color0: #2a2228
+*color8: #564f55
+*color1: #f48359
+*color9: #ff85aa
+*color2: #60b444
+*color10: #60bf88
+*color3: #d4a052
+*color11: #ef9680
+*color4: #7fa5f6
+*color12: #72afff
+*color5: #d37faf
+*color13: #a698ef
+*color6: #8fbaff
+*color14: #8fcfdf
+*color7: #d8cfd5
+*color15: #908890
+
+*dmenu.background : #2a2228
+*dmenu.foreground : #d8cfd5
+*dmenu.selbackground : #6a294f
+*dmenu.selforeground : #ffdfdf

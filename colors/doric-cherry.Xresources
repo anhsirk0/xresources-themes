@@ -1,0 +1,26 @@
+! Doric-Cherry Colors
+*background: #f7edf1
+*foreground: #311926
+*cursorColor: #a02050
+
+*color0: #e3d8db
+*color8: #e3d8db
+*color1: #750000
+*color9: #750000
+*color2: #056100
+*color10: #056100
+*color3: #5f4602
+*color11: #5f4602
+*color4: #353362
+*color12: #353362
+*color5: #553372
+*color13: #553372
+*color6: #35485e
+*color14: #35485e
+*color7: #311926
+*color15: #311926
+
+*dmenu.background : #e3d8db
+*dmenu.foreground : #311926
+*dmenu.selbackground : #cc95b7
+*dmenu.selforeground : #311926

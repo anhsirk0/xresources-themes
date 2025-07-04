@@ -1,0 +1,26 @@
+! Ef-Maris-Dark Colors
+*background: #131c2b
+*foreground: #eaedef
+*cursorColor: #8fdfff
+
+*color0: #1d2c39
+*color8: #4a5664
+*color1: #ff6f6f
+*color9: #ff7788
+*color2: #41bf4f
+*color10: #30c489
+*color3: #d0d24f
+*color11: #cab27f
+*color4: #57b0ff
+*color12: #12b4ff
+*color5: #f59acf
+*color13: #cf90ff
+*color6: #2fd0db
+*color14: #65d5a8
+*color7: #eaedef
+*color15: #969faf
+
+*dmenu.background : #1d2c39
+*dmenu.foreground : #eaedef
+*dmenu.selbackground : #2f527b
+*dmenu.selforeground : #ecf0ff

@@ -1,0 +1,26 @@
+! Ef-Reverie Colors
+*background: #f3eddf
+*foreground: #4f204f
+*cursorColor: #9d5744
+
+*color0: #e5d6d4
+*color8: #b9aaa8
+*color1: #ba2d2f
+*color9: #a83058
+*color2: #007a0a
+*color10: #008250
+*color3: #87591f
+*color11: #906045
+*color4: #375cc6
+*color12: #265fbf
+*color5: #9f4e74
+*color13: #7755b4
+*color6: #3060af
+*color14: #0b6e8a
+*color7: #4f204f
+*color15: #6f6877
+
+*dmenu.background : #e5d6d4
+*dmenu.foreground : #4f204f
+*dmenu.selbackground : #d1b0df
+*dmenu.selforeground : #523044

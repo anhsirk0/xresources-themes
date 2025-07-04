@@ -1,0 +1,26 @@
+! Doric-Water Colors
+*background: #2a283d
+*foreground: #f2f5ff
+*cursorColor: #99ddee
+
+*color0: #3e4050
+*color8: #3e4050
+*color1: #dba2a2
+*color9: #dba2a2
+*color2: #85c397
+*color10: #85c397
+*color3: #c4a992
+*color11: #c4a992
+*color4: #95afd2
+*color12: #95afd2
+*color5: #c5a3b2
+*color13: #c5a3b2
+*color6: #a5bfce
+*color14: #a5bfce
+*color7: #f2f5ff
+*color15: #f2f5ff
+
+*dmenu.background : #3e4050
+*dmenu.foreground : #f2f5ff
+*dmenu.selbackground : #455eab
+*dmenu.selforeground : #f2f5ff

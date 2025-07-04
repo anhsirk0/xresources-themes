@@ -1,0 +1,26 @@
+! Ef-Melissa-Light Colors
+*background: #fff6d8
+*foreground: #484431
+*cursorColor: #a07f00
+
+*color0: #f5e9cb
+*color8: #c7b7a6
+*color1: #ba2d2f
+*color9: #c02945
+*color2: #007a0a
+*color10: #008250
+*color3: #a26310
+*color11: #946830
+*color4: #375cc6
+*color12: #265fbf
+*color5: #aa3e74
+*color13: #6448ca
+*color6: #3f60af
+*color14: #0f708a
+*color7: #484431
+*color15: #68708a
+
+*dmenu.background : #f5e9cb
+*dmenu.foreground : #484431
+*dmenu.selbackground : #f3cf72
+*dmenu.selforeground : #403328

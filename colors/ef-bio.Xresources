@@ -1,0 +1,26 @@
+! Ef-Bio Colors
+*background: #111111
+*foreground: #cfdfd5
+*cursorColor: #35f038
+
+*color0: #222522
+*color8: #505250
+*color1: #ef6560
+*color9: #ff778f
+*color2: #3fb83f
+*color10: #00c089
+*color3: #d4aa02
+*color11: #cfc04f
+*color4: #37aff6
+*color12: #32cfef
+*color5: #d38faf
+*color13: #af9fff
+*color6: #6fc5ef
+*color14: #5dc0aa
+*color7: #cfdfd5
+*color15: #808f80
+
+*dmenu.background : #222522
+*dmenu.foreground : #cfdfd5
+*dmenu.selbackground : #00552f
+*dmenu.selforeground : #d0ffe0

@@ -1,0 +1,26 @@
+! Ef-Arbutus Colors
+*background: #ffead8
+*foreground: #393330
+*cursorColor: #208f10
+
+*color0: #f0d8cf
+*color8: #c7b2ab
+*color1: #b0000f
+*color9: #aa184f
+*color2: #007000
+*color10: #00704f
+*color3: #906200
+*color11: #8a6340
+*color4: #375cc6
+*color12: #265fbf
+*color5: #a23ea4
+*color13: #6448ca
+*color6: #3f69af
+*color14: #0f7688
+*color7: #393330
+*color15: #6e678f
+
+*dmenu.background : #f0d8cf
+*dmenu.foreground : #393330
+*dmenu.selbackground : #e9a0a0
+*dmenu.selforeground : #40231f

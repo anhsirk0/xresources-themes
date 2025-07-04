@@ -1,0 +1,26 @@
+! Ef-Duo-Dark Colors
+*background: #070019
+*foreground: #d0d0d0
+*cursorColor: #ef6f11
+
+*color0: #1d1a26
+*color8: #4a4759
+*color1: #ef656a
+*color9: #ef798f
+*color2: #1fa526
+*color10: #00b982
+*color3: #c48702
+*color11: #df805f
+*color4: #379cf6
+*color12: #029fff
+*color5: #d369af
+*color13: #af85ff
+*color6: #5faaef
+*color14: #0dafdf
+*color7: #d0d0d0
+*color15: #857f8f
+
+*dmenu.background : #1d1a26
+*dmenu.foreground : #d0d0d0
+*dmenu.selbackground : #352487
+*dmenu.selforeground : #dedeff

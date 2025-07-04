@@ -1,0 +1,26 @@
+! Ef-Day Colors
+*background: #fff5ea
+*foreground: #584141
+*cursorColor: #cf1f00
+
+*color0: #f2e9db
+*color8: #c9c0b8
+*color1: #ba2d2f
+*color9: #cf2f4f
+*color2: #007a0a
+*color10: #0f7f5f
+*color3: #a45a22
+*color11: #aa4f30
+*color4: #375cc6
+*color12: #265fbf
+*color5: #ca3e54
+*color13: #8448aa
+*color6: #3f60af
+*color14: #0f7b8f
+*color7: #584141
+*color15: #63728f
+
+*dmenu.background : #f2e9db
+*dmenu.foreground : #584141
+*dmenu.selbackground : #ffaf72
+*dmenu.selforeground : #542f38

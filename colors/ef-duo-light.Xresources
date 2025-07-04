@@ -1,0 +1,26 @@
+! Ef-Duo-Light Colors
+*background: #fff8f0
+*foreground: #222222
+*cursorColor: #1144ff
+
+*color0: #f6ece8
+*color8: #c7c0ba
+*color1: #cc3333
+*color9: #c04440
+*color2: #217a3c
+*color10: #008058
+*color3: #8a5d00
+*color11: #8f5a3a
+*color4: #375cd8
+*color12: #065fff
+*color5: #ba35af
+*color13: #6052cf
+*color6: #1f6fbf
+*color14: #1f77bb
+*color7: #222222
+*color15: #63728f
+
+*dmenu.background : #f6ece8
+*dmenu.foreground : #222222
+*dmenu.selbackground : #f8cf8f
+*dmenu.selforeground : #111133

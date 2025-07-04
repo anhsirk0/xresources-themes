@@ -1,0 +1,26 @@
+! Ef-Symbiosis Colors
+*background: #130911
+*foreground: #d0d0d0
+*cursorColor: #f0af7f
+
+*color0: #221920
+*color8: #4b3f47
+*color1: #ef6360
+*color9: #fe5a7a
+*color2: #0faa26
+*color10: #00a692
+*color3: #bf9032
+*color11: #df8a5a
+*color4: #3f95f6
+*color12: #029fff
+*color5: #d369af
+*color13: #af85ff
+*color6: #4fbaef
+*color14: #1dbfcf
+*color7: #d0d0d0
+*color15: #857f8f
+
+*dmenu.background : #221920
+*dmenu.foreground : #d0d0d0
+*dmenu.selbackground : #583435
+*dmenu.selforeground : #ffe5f0

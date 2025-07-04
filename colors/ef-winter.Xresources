@@ -1,0 +1,26 @@
+! Ef-Winter Colors
+*background: #0f0b15
+*foreground: #b8c6d5
+*cursorColor: #ff6ff0
+
+*color0: #1d202f
+*color8: #4a4f62
+*color1: #f47359
+*color9: #ff6a7a
+*color2: #29a444
+*color10: #00a392
+*color3: #b58a52
+*color11: #df9080
+*color4: #3f95f6
+*color12: #029fff
+*color5: #d369af
+*color13: #af85ea
+*color6: #4fbaef
+*color14: #35afbf
+*color7: #b8c6d5
+*color15: #807c9f
+
+*dmenu.background : #1d202f
+*dmenu.foreground : #b8c6d5
+*dmenu.selbackground : #5f1f5f
+*dmenu.selforeground : #dedeff

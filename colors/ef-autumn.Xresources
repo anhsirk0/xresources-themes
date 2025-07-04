@@ -1,0 +1,26 @@
+! Ef-Autumn Colors
+*background: #0f0e06
+*foreground: #cfbcba
+*cursorColor: #ffaa33
+
+*color0: #26211d
+*color8: #56524f
+*color1: #ef656a
+*color9: #ff7a7f
+*color2: #2fa526
+*color10: #00b066
+*color3: #c48702
+*color11: #df8f6f
+*color4: #379cf6
+*color12: #029fff
+*color5: #d570af
+*color13: #af8aff
+*color6: #4fb0cf
+*color14: #3dbbb0
+*color7: #cfbcba
+*color15: #887c8a
+
+*dmenu.background : #26211d
+*dmenu.foreground : #cfbcba
+*dmenu.selbackground : #692a12
+*dmenu.selforeground : #feeeca

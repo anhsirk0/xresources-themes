@@ -1,0 +1,26 @@
+! Modus-Operandi Colors
+*background: #ffffff
+*foreground: #000000
+*cursorColor: #000000
+
+*color0: #f2f2f2
+*color8: #c4c4c4
+*color1: #a60000
+*color9: #a0132f
+*color2: #006800
+*color10: #00663f
+*color3: #6f5500
+*color11: #7a4f2f
+*color4: #0031a9
+*color12: #0000b0
+*color5: #721045
+*color13: #531ab6
+*color6: #005e8b
+*color14: #005f5f
+*color7: #000000
+*color15: #595959
+
+*dmenu.background : #f2f2f2
+*dmenu.foreground : #000000
+*dmenu.selbackground : #dfa0f0
+*dmenu.selforeground : #000000

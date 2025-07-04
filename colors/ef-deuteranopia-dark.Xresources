@@ -1,0 +1,26 @@
+! Ef-Deuteranopia-Dark Colors
+*background: #000a1f
+*foreground: #ddddee
+*cursorColor: #ffff00
+
+*color0: #121f34
+*color8: #445165
+*color1: #cf8560
+*color9: #cf7a7a
+*color2: #3faa26
+*color10: #3fa672
+*color3: #aa9f32
+*color11: #bfaf7a
+*color4: #3f90f0
+*color12: #009fff
+*color5: #b379bf
+*color13: #9f95ff
+*color6: #5faaef
+*color14: #0db0ff
+*color7: #ddddee
+*color15: #7f8797
+
+*dmenu.background : #121f34
+*dmenu.foreground : #ddddee
+*dmenu.selbackground : #003f8f
+*dmenu.selforeground : #ffffff

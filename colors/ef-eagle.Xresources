@@ -1,0 +1,26 @@
+! Ef-Eagle Colors
+*background: #f1ecd0
+*foreground: #231a1f
+*cursorColor: #774400
+
+*color0: #e4dbc0
+*color8: #aea88e
+*color1: #882000
+*color9: #8f0038
+*color2: #226022
+*color10: #006e50
+*color3: #6b4500
+*color11: #775228
+*color4: #113384
+*color12: #000080
+*color5: #822478
+*color13: #50119f
+*color6: #125a7f
+*color14: #00676f
+*color7: #231a1f
+*color15: #685f53
+
+*dmenu.background : #e4dbc0
+*dmenu.foreground : #231a1f
+*dmenu.selbackground : #cfab80
+*dmenu.selforeground : #2f1005

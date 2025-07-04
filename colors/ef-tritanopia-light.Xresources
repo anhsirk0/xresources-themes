@@ -1,0 +1,26 @@
+! Ef-Tritanopia-Light Colors
+*background: #fff9f9
+*foreground: #1a1a1a
+*cursorColor: #bb0000
+
+*color0: #efecec
+*color8: #bdb9b9
+*color1: #aa0010
+*color9: #c50f4f
+*color2: #217a3c
+*color10: #008058
+*color3: #805d00
+*color11: #765040
+*color4: #375cd8
+*color12: #065fff
+*color5: #aa357f
+*color13: #af40af
+*color6: #2070af
+*color14: #007faa
+*color7: #1a1a1a
+*color15: #756275
+
+*dmenu.background : #efecec
+*dmenu.foreground : #1a1a1a
+*dmenu.selbackground : #ff99aa
+*dmenu.selforeground : #1a0a0f

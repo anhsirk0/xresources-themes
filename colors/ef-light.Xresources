@@ -1,0 +1,26 @@
+! Ef-Light Colors
+*background: #ffffff
+*foreground: #202020
+*cursorColor: #0033cc
+
+*color0: #efefef
+*color8: #b3b3b3
+*color1: #d3303a
+*color9: #d50f7f
+*color2: #217a3c
+*color10: #008858
+*color3: #a45f22
+*color11: #b65050
+*color4: #3740cf
+*color12: #065fff
+*color5: #ba35af
+*color13: #6052cf
+*color6: #1f6fbf
+*color14: #1f77bb
+*color7: #202020
+*color15: #70627f
+
+*dmenu.background : #efefef
+*dmenu.foreground : #202020
+*dmenu.selbackground : #b7c7ff
+*dmenu.selforeground : #151515

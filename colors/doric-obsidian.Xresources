@@ -1,0 +1,26 @@
+! Doric-Obsidian Colors
+*background: #181818
+*foreground: #e7e7e7
+*cursorColor: #eeddbb
+
+*color0: #2f2f2f
+*color8: #2f2f2f
+*color1: #dba2a2
+*color9: #dba2a2
+*color2: #85c397
+*color10: #85c397
+*color3: #c4a992
+*color11: #c4a992
+*color4: #95afd2
+*color12: #95afd2
+*color5: #c5a3b2
+*color13: #c5a3b2
+*color6: #a5bfce
+*color14: #a5bfce
+*color7: #e7e7e7
+*color15: #e7e7e7
+
+*dmenu.background : #2f2f2f
+*dmenu.foreground : #e7e7e7
+*dmenu.selbackground : #505050
+*dmenu.selforeground : #e7e7e7

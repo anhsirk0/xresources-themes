@@ -1,0 +1,26 @@
+! Ef-Elea-Light Colors
+*background: #edf5e2
+*foreground: #221321
+*cursorColor: #770080
+
+*color0: #e3e9d6
+*color8: #b0b7aa
+*color1: #c3303a
+*color9: #b02440
+*color2: #00601f
+*color10: #007047
+*color3: #9a501f
+*color11: #88541f
+*color4: #375cc6
+*color12: #162f8f
+*color5: #80308f
+*color13: #5032aa
+*color6: #1f70af
+*color14: #00677f
+*color7: #221321
+*color15: #676470
+
+*dmenu.background : #e3e9d6
+*dmenu.foreground : #221321
+*dmenu.selbackground : #a5c67f
+*dmenu.selforeground : #142810

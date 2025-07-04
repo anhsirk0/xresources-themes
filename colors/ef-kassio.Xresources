@@ -1,0 +1,26 @@
+! Ef-Kassio Colors
+*background: #fff7f7
+*foreground: #201f36
+*cursorColor: #d06f30
+
+*color0: #efe7e7
+*color8: #c0bbbb
+*color1: #b00234
+*color9: #d5305f
+*color2: #217a3c
+*color10: #008358
+*color3: #9a6012
+*color11: #a04646
+*color4: #3c3bbe
+*color12: #065fff
+*color5: #a01f64
+*color13: #7022bf
+*color6: #2f5f9f
+*color14: #1077ab
+*color7: #201f36
+*color15: #776f79
+
+*dmenu.background : #efe7e7
+*dmenu.foreground : #201f36
+*dmenu.selbackground : #e0bfba
+*dmenu.selforeground : #151515

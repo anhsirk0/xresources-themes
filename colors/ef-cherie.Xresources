@@ -1,0 +1,26 @@
+! Ef-Cherie Colors
+*background: #190a0f
+*foreground: #d3cfcf
+*cursorColor: #ff5aaf
+
+*color0: #291f26
+*color8: #594a4f
+*color1: #ff7359
+*color9: #ff78aa
+*color2: #60b444
+*color10: #60bf88
+*color3: #e5b76f
+*color11: #f59280
+*color4: #8fa5f6
+*color12: #7fa5ff
+*color5: #ef80bf
+*color13: #df7fff
+*color6: #8fbaef
+*color14: #8fcfdf
+*color7: #d3cfcf
+*color15: #808898
+
+*dmenu.background : #291f26
+*dmenu.foreground : #d3cfcf
+*dmenu.selbackground : #771a4f
+*dmenu.selforeground : #ffcfdf

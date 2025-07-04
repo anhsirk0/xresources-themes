@@ -1,0 +1,26 @@
+! Modus-Vivendi Colors
+*background: #000000
+*foreground: #ffffff
+*cursorColor: #ffffff
+
+*color0: #1e1e1e
+*color8: #535353
+*color1: #ff5f59
+*color9: #ff7f9f
+*color2: #44bc44
+*color10: #00c06f
+*color3: #d0bc00
+*color11: #dfaf7a
+*color4: #2fafff
+*color12: #00bcff
+*color5: #feacd0
+*color13: #b6a0ff
+*color6: #00d3d0
+*color14: #6ae4b9
+*color7: #ffffff
+*color15: #989898
+
+*dmenu.background : #1e1e1e
+*dmenu.foreground : #ffffff
+*dmenu.selbackground : #7030af
+*dmenu.selforeground : #ffffff

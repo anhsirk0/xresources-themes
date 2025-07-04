@@ -1,0 +1,26 @@
+! Doric-Plum Colors
+*background: #221832
+*foreground: #e2d7e7
+*cursorColor: #c070d0
+
+*color0: #382b4e
+*color8: #382b4e
+*color1: #dba2a2
+*color9: #dba2a2
+*color2: #85c397
+*color10: #85c397
+*color3: #c4a992
+*color11: #c4a992
+*color4: #95afd2
+*color12: #95afd2
+*color5: #c5a3b2
+*color13: #c5a3b2
+*color6: #a5bfce
+*color14: #a5bfce
+*color7: #e2d7e7
+*color15: #e2d7e7
+
+*dmenu.background : #382b4e
+*dmenu.foreground : #e2d7e7
+*dmenu.selbackground : #604179
+*dmenu.selforeground : #e2d7e7

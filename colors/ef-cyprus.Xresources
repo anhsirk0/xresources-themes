@@ -1,0 +1,26 @@
+! Ef-Cyprus Colors
+*background: #fcf7ef
+*foreground: #242521
+*cursorColor: #007f00
+
+*color0: #f0ece0
+*color8: #c5c3b8
+*color1: #9f0d0f
+*color9: #ca3400
+*color2: #006f00
+*color10: #00824f
+*color3: #a7601f
+*color11: #a2604f
+*color4: #375cc6
+*color12: #065fbf
+*color5: #9a456f
+*color13: #8448aa
+*color6: #1f70af
+*color14: #007a9f
+*color7: #242521
+*color15: #59786f
+
+*dmenu.background : #f0ece0
+*dmenu.foreground : #242521
+*dmenu.selbackground : #c0df6f
+*dmenu.selforeground : #142010
