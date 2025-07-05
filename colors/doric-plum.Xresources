@@ -3,8 +3,8 @@
 *foreground: #e2d7e7
 *cursorColor: #c070d0
 
-*color0: #382b4e
-*color8: #382b4e
+*color0: #302f3c
+*color8: #302f3c
 *color1: #dba2a2
 *color9: #dba2a2
 *color2: #85c397
@@ -20,7 +20,7 @@
 *color7: #e2d7e7
 *color15: #e2d7e7
 
-*dmenu.background : #382b4e
+*dmenu.background : #302f3c
 *dmenu.foreground : #e2d7e7
-*dmenu.selbackground : #604179
+*dmenu.selbackground : #5e4170
 *dmenu.selforeground : #e2d7e7

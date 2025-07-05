@@ -23,12 +23,12 @@ $ ~/.config/xresources-themes/change-theme.pl bio
 > This will change theme to the first theme that has bio in its name
 
 ### Colors
-Pictures: https://wezfurlong.org/wezterm/colorschemes/e/index.html#ef-autumn  
+Pictures (wezterm): https://wezfurlong.org/wezterm/colorschemes/e/index.html#ef-autumn  
 Ef-themes pictures (emacs): https://protesilaos.com/emacs/ef-themes-pictures  
 Doric-themes pictures (emacs): https://protesilaos.com/emacs/doric-themes-pictures  
 
 ## Thanks
-Modus themes - https://protesilaos.com/emacs/modus-themes-colors  
+Modus themes - https://protesilaos.com/emacs/modus-themes  
 Ef themes - https://protesilaos.com/emacs/ef-themes  
 Doric themes - https://github.com/protesilaos/doric-themes  
 

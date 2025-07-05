@@ -3,8 +3,8 @@
 *foreground: #202020
 *cursorColor: #403030
 
-*color0: #dedede
-*color8: #dedede
+*color0: #dfdfdf
+*color8: #dfdfdf
 *color1: #750000
 *color9: #750000
 *color2: #056100
@@ -20,7 +20,7 @@
 *color7: #202020
 *color15: #202020
 
-*dmenu.background : #dedede
+*dmenu.background : #dfdfdf
 *dmenu.foreground : #202020
 *dmenu.selbackground : #b0b0b0
 *dmenu.selforeground : #202020

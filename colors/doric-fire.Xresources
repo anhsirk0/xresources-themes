@@ -1,10 +1,10 @@
 ! Doric-Fire Colors
 *background: #2a281d
 *foreground: #f0e5e0
-*cursorColor: #fe7062
+*cursorColor: #e06e42
 
-*color0: #45372f
-*color8: #45372f
+*color0: #40332f
+*color8: #40332f
 *color1: #d09090
 *color9: #d09090
 *color2: #85c397
@@ -20,7 +20,7 @@
 *color7: #f0e5e0
 *color15: #f0e5e0
 
-*dmenu.background : #45372f
+*dmenu.background : #40332f
 *dmenu.foreground : #f0e5e0
-*dmenu.selbackground : #742d33
+*dmenu.selbackground : #601a2f
 *dmenu.selforeground : #f0e5e0
