@@ -22,8 +22,9 @@ $ ~/.config/xresources-themes/change-theme.pl bio
 ```
 > This will change theme to the first theme that has bio in its name
 
-### Colors
+### Pictures
 Pictures (wezterm): https://wezfurlong.org/wezterm/colorschemes/e/index.html#ef-autumn  
+Modus-themes pictures (emacs): https://protesilaos.com/emacs/modus-themes-pictures  
 Ef-themes pictures (emacs): https://protesilaos.com/emacs/ef-themes-pictures  
 Doric-themes pictures (emacs): https://protesilaos.com/emacs/doric-themes-pictures  
 
@@ -32,3 +33,11 @@ Modus themes - https://protesilaos.com/emacs/modus-themes
 Ef themes - https://protesilaos.com/emacs/ef-themes  
 Doric themes - https://github.com/protesilaos/doric-themes  
 
+## See also
+Modus, Ef, Doric themes for Alacritty: https://github.com/anhsirk0/alacritty-themes  
+Modus, Ef, Doric themes for Wezterm: https://github.com/anhsirk0/wezterm-themes  
+Modus, Ef, Doric themes for Ghostty: https://github.com/anhsirk0/ghostty-themes  
+Modus, Ef, Doric themes for Awesomewm: https://github.com/anhsirk0/awesome-config  
+Modus, Ef, Doric themes for Rofi: https://github.com/anhsirk0/rofi-config  
+Modus, Ef, Doric themes for Xresources: https://github.com/anhsirk0/xresources-themes  
+Modus, Ef themes for Kakoune: https://github.com/anhsirk0/kakoune-themes  
